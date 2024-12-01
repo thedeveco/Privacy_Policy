@@ -1,7 +1,7 @@
 # Privacy Policy
 
 1. Data Collected
-We collect the following personal data when you fill out the signup form:
+- We collect the following personal data when you fill out the signup form:
 
 - Name
 - Email address
@@ -16,13 +16,13 @@ We collect the following personal data when you fill out the signup form:
 - Collect feedback to improve future events.
 
 3. Data Storage
-Your data will be stored securely using third-party services compliant with industry standards. Access is limited to authorized personnel.
+- Your data will be stored securely using third-party services compliant with industry standards. Access is limited to authorized personnel.
 
 4. Data Sharing
-We will not share your data with third parties unless required by law.
+- We will not share your data with third parties unless required by law.
 
 5. Data Retention
-Your data will be retained for the duration of your participation in the meetup series. You may request deletion at any time.
+- Your data will be retained for the duration of your participation in the meetup series. You may request deletion at any time.
 
 6. Your Rights
 
