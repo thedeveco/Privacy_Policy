@@ -2,6 +2,8 @@
 
 **Partner version:** [Hackster.io](https://www.hackster.io/)
 
+---
+
 1. Data Collected
 - We collect the following personal data when you fill out the signup form:
 
@@ -10,6 +12,8 @@
 - Discord username (optional)
 - Feedback on meetup topics (optional)
 
+---
+
 2. How We Use Your Data
 
 **We use your data to:**
@@ -17,15 +21,23 @@
 - Notify you about updates or changes to the event.
 - Collect feedback to improve future events.
 
+---
+
 3. Data Storage
 - Your data will be stored securely using third-party services compliant with industry standards. Access is limited to authorized personnel.
+
+---
 
 4. Data Sharing
 - Only email data collected will be shared with mentioned partners. Any emails that are shared become subject to their [privacy policy](https://www.hackster.io/privacy) independent of this privacy policy.
 - We will  share your data with third parties unless required by law.
 
+---
+
 5. Data Retention
 - Your data will be retained for the duration of your participation in the meetup series. You may request deletion at any time.
+
+---
 
 6. Your Rights
 
