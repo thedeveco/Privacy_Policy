@@ -30,7 +30,7 @@
 
 4. Data Sharing
 - Only email data collected will be shared with mentioned partners. Any emails that are shared become subject to their [privacy policy](https://www.hackster.io/privacy) independent of this privacy policy.
-- We will  share your data with third parties unless required by law.
+- All other data will not be shared any third parties unless required by law.
 
 ---
 
