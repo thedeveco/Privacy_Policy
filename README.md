@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Partner version:** [Hackster.io](https://www.hackster.io/)
+
 1. Data Collected
 - We collect the following personal data when you fill out the signup form:
 
@@ -19,7 +21,8 @@
 - Your data will be stored securely using third-party services compliant with industry standards. Access is limited to authorized personnel.
 
 4. Data Sharing
-- We will not share your data with third parties unless required by law.
+- Only email data collected will be shared with mentioned partners. Any emails that are shared become subject to their [privacy policy](https://www.hackster.io/privacy) independent of this privacy policy.
+- We will  share your data with third parties unless required by law.
 
 5. Data Retention
 - Your data will be retained for the duration of your participation in the meetup series. You may request deletion at any time.
